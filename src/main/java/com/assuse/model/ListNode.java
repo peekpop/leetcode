@@ -1,4 +1,4 @@
-package com.assuse.model;
+package main.java.com.assuse.model;
 
 /**
  * @author cobra

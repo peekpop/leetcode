@@ -1,4 +1,4 @@
-package com.assuse.node;
+package main.java.com.assuse.node;
 
 import java.util.ArrayList;
 import java.util.List;
