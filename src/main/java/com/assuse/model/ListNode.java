@@ -1,4 +1,4 @@
-package main.java.com.assuse.model;
+package com.assuse.model;
 
 /**
  * @author cobra
@@ -10,8 +10,11 @@ public class ListNode {
     int val;
     //链表指向的下一个值的指针
     ListNode next;
+
     //这个方式赋值
-    ListNode(int x){val = x;}
+    ListNode(int x) {
+        val = x;
+    }
 
     public int getVal() {
         return val;
